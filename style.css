@@ -1,0 +1,37 @@
+p{
+    color: rgb(0, 0, 0);
+}
+body{
+    background-color: #EEEEEE;
+    margin: 0;
+}
+/* Resizes Main image and makes it circular*/
+img {
+    height: 200px;
+    width: 500px;
+    display: block;
+    margin-top: 50px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.topbar{
+    background-color: #dddddd;
+    width:100%;
+    padding-bottom: 200px;
+}
+/* Changes the look or header row*/
+hr{
+    border-style: dotted none none;
+    width: 3%;
+    border-width: 5px;
+    border-color: grey;
+}
+.navbar ul li{
+    background-color: #dddddd;
+    margin: auto;
+    width: 50%;
+}
+
+
